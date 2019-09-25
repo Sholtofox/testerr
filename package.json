@@ -1,0 +1,11 @@
+{
+  "name": "stacksonstacks",
+  "version": "1.0.0",
+  "description": "A chrome extension",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sholto Fox",
+  "license": "ISC"
+}
